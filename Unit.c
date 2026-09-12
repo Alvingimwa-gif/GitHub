@@ -2,7 +2,7 @@
     Multi-line comment
     Author: Alvin
     Reg Number: BCS-05-0060/2026
-    Description: Basic C program
+    Description: This program lists the units offered in the current semester.
     Date: 11/9/2026
     Version 1
     */

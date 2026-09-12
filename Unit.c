@@ -1,4 +1,11 @@
-// This program lists the units offered in the current semester.
+  /*
+    Multi-line comment
+    Author: Alvin
+    Reg Number: BCS-05-0060/2026
+    Description: Basic C program
+    Date: 11/9/2026
+    Version 1
+    */
 #include <stdio.h>
 
 int main() {
@@ -11,12 +18,5 @@ int main() {
     printf("6. Introduction to Physics\n");
     printf("7. Health and Wellness Management\n");
     return 0;
-    /*
-    Multi-line comment
-    Author: Alvin
-    Reg Number: BCS-05-0060/2026
-    Description: Basic C program
-    Date: 11/9/2026
-    Version 1
-    */
+  
 }

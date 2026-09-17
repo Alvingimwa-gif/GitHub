@@ -1,7 +1,6 @@
  /*
-    Multi-line comment
     Author: Alvin
-    Reg Number: BCS-05-0060/2026
+    Reg Number: BCS-05-0068/2026
     Description:Program to input and display user values using C
     Date: 12/9/2026
     Version 1

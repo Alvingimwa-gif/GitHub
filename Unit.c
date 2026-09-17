@@ -2,7 +2,11 @@
     Multi-line comment
     Author: Alvin
     Reg Number: BCS-05-0060/2026
+<<<<<<< Updated upstream
     Description: This program lists the units offered in the current semester.
+=======
+    Description:This program lists the units offered in the current semester.
+>>>>>>> Stashed changes
     Date: 11/9/2026
     Version 1
     */
@@ -18,5 +22,10 @@ int main() {
     printf("6. Introduction to Physics\n");
     printf("7. Health and Wellness Management\n");
     return 0;
+<<<<<<< Updated upstream
   
 }
+=======
+   
+}
+>>>>>>> Stashed changes

@@ -1,5 +1,5 @@
  /*
-    Author: Alvin
+    Author: Amoh
     Reg Number: BCS-05-0068/2026
     Description:Program to calculate the volume and surface area of a cylinder using C
     Date: 17/9/2026
